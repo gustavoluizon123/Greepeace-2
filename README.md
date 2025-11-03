@@ -73,6 +73,7 @@ Este projeto demonstra minha habilidade de:
 ---
 
 ## 📂 Estrutura
+
 /greenpeace=refatorada
 │── index.html
 │── projetos.html
