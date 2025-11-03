@@ -71,29 +71,30 @@ Este projeto demonstra minha habilidade de:
 | JavaScript | Máscaras e validação nativa |
 
 ---
-<br>
-## 📂 Estrutura
 
-...
-/greenpeace=refatorada
+<br>
+
+## 📂 Estrutura de Pastas
+
+```
+/greenpeace-refatorado
 │── index.html
 │── projetos.html
 │── cadastro.html
-│── css/
-│   └── styles.css
-│── js/
-│   └── script.js
-│── img/
-│   ├── amazoniar.jpg
-│   ├── expedicao.png
+├── css/
+|   └── styles.css
+│── js
+|   └── script.js
+│── img
+|   ├── amazonia.jpg
+|   ├── expedicao.jpg
 |   ├── Greenpeace.jpg
 |   ├── proposta.jpg
 |   ├── transparencia.jpg
-│   └── voluntariado.jpg 
-│           
+|   └── voluntariado.jpg 
 └── README.md
+```
 
-...
 <br>
 
 ---
