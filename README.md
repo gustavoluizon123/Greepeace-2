@@ -71,9 +71,10 @@ Este projeto demonstra minha habilidade de:
 | JavaScript | Máscaras e validação nativa |
 
 ---
-
+<br>
 ## 📂 Estrutura
 
+...
 /greenpeace=refatorada
 │── index.html
 │── projetos.html
@@ -92,6 +93,8 @@ Este projeto demonstra minha habilidade de:
 │           
 └── README.md
 
+...
+<br>
 
 ---
 
